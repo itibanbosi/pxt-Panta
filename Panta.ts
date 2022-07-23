@@ -25,7 +25,7 @@ enum neoLED_color {
 let io_neo = neopixel.create(DigitalPin.P16, 3, NeoPixelMode.RGB);
 
 
-//% color="#ff4500" weight=94 block="Panta" icon="\uf1b9"
+//% color="#ff4500" weight=94 block="Panta" icon="\uf188"
 
 namespace newio_blocks {
 
